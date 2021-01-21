@@ -1,9 +1,9 @@
 # Money To Words Converter
 
-[![Packagist](https://img.shields.io/packagist/dt/tnkemdilim/money-to-words-converter.svg)](https://packagist.org/packages/tnkemdilim/money-to-words-converter)
-[![Build Status](https://travis-ci.org/TNkemdilim/Money-To-Words-Converter.svg?branch=master)](https://travis-ci.org/TNkemdilim/Money-To-Words-Converter)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/tnkemdilim/money-to-words-converter.svg)](https://packagist.org/packages/tnkemdilim/money-to-words-converter)
-[![Packagist](https://img.shields.io/packagist/v/tnkemdilim/money-to-words-converter.svg)](https://packagist.org/packages/tnkemdilim/money-to-words-converter)
+[![Packagist](https://img.shields.io/packagist/dt/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
+[![Build Status](https://travis-ci.org/msaied/Money-To-Words-Converter.svg?branch=master)](https://travis-ci.org/msaied/Money-To-Words-Converter)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
+[![Packagist](https://img.shields.io/packagist/v/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
 
 A php library that converts any money value in digit in any language or numeric system to its words in any language
 
@@ -15,11 +15,11 @@ A php library that converts any money value in digit in any language or numeric 
 composer require tnkemdilim/money-to-words-converter
 ```
 
-- Or edit your project's `composer.json` to require `tnkemdilim/money-to-words-converter` and then run `composer update`.
+- Or edit your project's `composer.json` to require `msaied/money-to-words-converter` and then run `composer update`.
 
 ```php
 "require": {
-    "tnkemdilim/money-to-words-converter": "^2"
+    "msaied/money-to-words-converter": "^2"
 }
 ```
 
