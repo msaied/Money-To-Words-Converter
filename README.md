@@ -289,13 +289,11 @@ For more conversion types
   </tbody>
 </table>
 
-## Contribution
+## Thanks To
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Some commit message'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request 😉😉
+Tochukwu Nkemdilim
+
+https://github.com/TNkemdilim/Money-To-Words-Converter
 
 ## License
 
