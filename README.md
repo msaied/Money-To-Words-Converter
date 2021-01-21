@@ -12,7 +12,7 @@ A php library that converts any money value in digit in any language or numeric 
 - Install this package via [Composer](https://getcomposer.org).
 
 ```php
-composer require tnkemdilim/money-to-words-converter
+composer require msaied/money-to-words-converter
 ```
 
 - Or edit your project's `composer.json` to require `msaied/money-to-words-converter` and then run `composer update`.
