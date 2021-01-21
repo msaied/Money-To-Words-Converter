@@ -1,7 +1,7 @@
 # Money To Words Converter
 
 [![Packagist](https://img.shields.io/packagist/dt/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
-[![Build Status](https://travis-ci.org/msaied/Money-To-Words-Converter.svg?branch=master)](https://travis-ci.org/msaied/Money-To-Words-Converter)
+[![Build Status](https://travis-ci.com/msaied/Money-To-Words-Converter.svg?branch=master)](https://travis-ci.org/msaied/Money-To-Words-Converter)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
 [![Packagist](https://img.shields.io/packagist/v/msaied/money-to-words-converter.svg)](https://packagist.org/packages/msaied/money-to-words-converter)
 
